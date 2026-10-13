@@ -79,7 +79,7 @@ This project demonstrates practical experience with visual ETL development, data
 
 [GitHub Profile](https://github.com/Souvik007h)
 
-[LinkedIn Profi](https://www.linkedin.com/in/souvik-developer/)
+[LinkedIn Profile](https://www.linkedin.com/in/souvik-developer/)
 
 # Assignment 02 — E-Commerce Order Data Integration
 
@@ -261,3 +261,49 @@ This diagram is conceptual. Use the normal and error-handling hops appropriate f
 The assignment is complete when the pipeline runs successfully, all three output files contain the expected records, rejected records include reasons, duplicate orders are isolated, and the final valid file contains only eligible active-customer orders with calculated order values.
 
 **Important:** Use Apache Hop's visual GUI for the implementation. Do not replace the ETL pipeline with Python or SQL. Keep source CSV files unchanged and save your work frequently.
+
+## 📸 Pipeline Screenshots
+
+This section showcases the visual ETL workflows and analytical outputs developed using **Apache Hop 2.19.0**.
+
+### 1. Customer Data Validation
+
+Validates customer master data and separates valid customer records from rejected records based on configured business rules.
+
+![Customer Validation](screenshots/Customer_Validation.png)
+
+### 2. Order Validation and Deduplication
+
+Validates incoming order records, checks business constraints, and identifies duplicate orders to maintain data quality.
+
+![Order Validation](screenshots/Order_Validation.png)
+
+### 3. Order and Customer Enrichment
+
+Integrates order records with customer master data to validate customer references and classify orders according to customer status.
+
+![Order and Customer Enrichment](screenshots/Order_And_Customer_Enrichment.png)
+
+### 4. Order Customer Output
+
+Demonstrates the output workflow for processing and organizing order records alongside customer information.
+
+![Order Customer Output](screenshots/Order_Customer_Output.png)
+
+### 5. Order Enrichment and Analytics
+
+Enhances validated order data with calculated business metrics, including order values, applicable taxes, and order classifications where implemented.
+
+![Order Enrichment and Analytics](screenshots/Order_Enrichment_And_Analytics.png)
+
+### 6. Product Revenue Summary
+
+Aggregates order data to produce product-level revenue summaries and other configured business metrics.
+
+![Product Revenue Summary](screenshots/Product_Revenue_Summary.png)
+
+### 7. Product Analytics and Insights
+
+Presents analytical outputs derived from processed order data to support product performance and revenue analysis.
+
+![Product Analytics and Insights](screenshots/Product_Analytics_Insights.png)
