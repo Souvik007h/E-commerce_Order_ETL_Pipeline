@@ -1,0 +1,21 @@
+customer_id,customer_name,city,customer_status
+C101,Rahul Sharma,Kolkata,ACTIVE
+C102,Amit Verma,Delhi,ACTIVE
+C103,Anita Das,Mumbai,INACTIVE
+C104,Souvik Roy,Kolkata,ACTIVE
+C105,Riya Patel,Pune,ACTIVE
+C106,Neha Iyer,Chennai,ACTIVE
+C107,Arjun Mehta,Bengaluru,ACTIVE
+C108,Priya Nair,Hyderabad,ACTIVE
+C109,Karan Singh,Jaipur,ACTIVE
+C110,Sneha Gupta,Lucknow,ACTIVE
+C111,Vikram Rao,Ahmedabad,ACTIVE
+C112,Pooja Mishra,Bhubaneswar,ACTIVE
+C113,Aditya Sen,Kolkata,INACTIVE
+C114,Meera Joshi,Indore,ACTIVE
+C115,Ishaan Kapoor,Chandigarh,ACTIVE
+C116,Kavya Reddy,Visakhapatnam,ACTIVE
+C117,Rohan Banerjee,Patna,ACTIVE
+C118,Tanya Chawla,Noida,ACTIVE
+C119,Dev Malhotra,Gurugram,ACTIVE
+C120,Nisha Fernandes,Goa,ACTIVE

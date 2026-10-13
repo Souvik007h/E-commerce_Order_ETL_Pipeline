@@ -1,0 +1,5 @@
+customer_id,customer_name,city,customer_status,order_id,product,quantity,unit_price,rejection_reason
+C103,Anita Das,Mumbai,INACTIVE,O1017,Laptop,4,55000,CUSTOMER_INACTIVE
+C103,Anita Das,Mumbai,INACTIVE,O1045,Monitor,2,12000,CUSTOMER_INACTIVE
+C103,Anita Das,Mumbai,INACTIVE,O1063,Keyboard,5,1500,CUSTOMER_INACTIVE
+C103,Anita Das,Mumbai,INACTIVE,O1092,USB Cable,4,200,CUSTOMER_INACTIVE

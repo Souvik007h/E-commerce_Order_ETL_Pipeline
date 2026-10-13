@@ -1,0 +1,51 @@
+order_id,customer_id,product,quantity,unit_price,customer_name,city
+O1001,C106,Mouse,1,500,Neha Iyer,Chennai
+O1002,C106,Headphones,2,2500,Neha Iyer,Chennai
+O1003,C102,Keyboard,1,1500,Amit Verma,Delhi
+O1004,C106,Microphone,5,4800,Neha Iyer,Chennai
+O1006,C101,Laptop,1,55000,Rahul Sharma,Kolkata
+O1008,C105,Laptop,5,55000,Riya Patel,Pune
+O1010,C104,Monitor,4,12000,Souvik Roy,Kolkata
+O1015,C101,USB Cable,1,200,Rahul Sharma,Kolkata
+O1018,C105,Mouse,4,500,Riya Patel,Pune
+O1022,C102,Microphone,1,4800,Amit Verma,Delhi
+O1023,C101,Router,2,3200,Rahul Sharma,Kolkata
+O1026,C104,Headphones,4,2500,Souvik Roy,Kolkata
+O1027,C106,Webcam,2,3000,Neha Iyer,Chennai
+O1029,C106,Headphones,1,2500,Neha Iyer,Chennai
+O1030,C105,Router,2,3200,Riya Patel,Pune
+O1032,C104,USB Cable,3,200,Souvik Roy,Kolkata
+O1033,C106,Microphone,5,4800,Neha Iyer,Chennai
+O1034,C102,Router,3,3200,Amit Verma,Delhi
+O1038,C102,Printer,3,14000,Amit Verma,Delhi
+O1039,C102,Router,4,3200,Amit Verma,Delhi
+O1040,C104,Router,4,3200,Souvik Roy,Kolkata
+O1041,C102,Headphones,2,2500,Amit Verma,Delhi
+O1043,C105,Headphones,5,2500,Riya Patel,Pune
+O1046,C105,Docking Station,1,8500,Riya Patel,Pune
+O1050,C105,Mouse,4,500,Riya Patel,Pune
+O1051,C104,Printer,4,14000,Souvik Roy,Kolkata
+O1052,C105,Headphones,5,2500,Riya Patel,Pune
+O1056,C101,Headphones,4,2500,Rahul Sharma,Kolkata
+O1057,C102,Docking Station,1,8500,Amit Verma,Delhi
+O1060,C101,Router,3,3200,Rahul Sharma,Kolkata
+O1062,C105,Monitor,2,12000,Riya Patel,Pune
+O1065,C105,Webcam,4,3000,Riya Patel,Pune
+O1066,C101,Mouse,3,500,Rahul Sharma,Kolkata
+O1068,C101,Monitor,5,12000,Rahul Sharma,Kolkata
+O1073,C102,Headphones,5,2500,Amit Verma,Delhi
+O1075,C102,SSD,2,4200,Amit Verma,Delhi
+O1077,C106,Router,3,3200,Neha Iyer,Chennai
+O1078,C104,SSD,4,4200,Souvik Roy,Kolkata
+O1080,C101,Webcam,1,3000,Rahul Sharma,Kolkata
+O1081,C105,SSD,2,4200,Riya Patel,Pune
+O1082,C105,Monitor,1,12000,Riya Patel,Pune
+O1084,C102,Mouse,1,500,Amit Verma,Delhi
+O1086,C105,Monitor,3,12000,Riya Patel,Pune
+O1087,C106,Docking Station,2,8500,Neha Iyer,Chennai
+O1089,C104,Monitor,4,12000,Souvik Roy,Kolkata
+O1093,C104,Microphone,1,4800,Souvik Roy,Kolkata
+O1094,C106,Router,1,3200,Neha Iyer,Chennai
+O1097,C102,Monitor,5,12000,Amit Verma,Delhi
+O1098,C104,Keyboard,4,1500,Souvik Roy,Kolkata
+O1100,C102,Mouse,4,500,Amit Verma,Delhi
